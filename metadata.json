@@ -1,0 +1,6 @@
+{
+  "name": "Vega Core Planner",
+  "description": "A quiet space for big plans — comprehensive study planner, review tracker, and calendar with Google Calendar synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
